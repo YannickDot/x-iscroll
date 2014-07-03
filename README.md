@@ -7,15 +7,6 @@
 > [Check it live](http://yannickdot.github.io/labs/x-iscroll).
 
 
-
-## Install
-
-Install with [Bower](http://bower.io):
-
-```sh
-$ bower install --save x-iscroll
-```
-
 ## Usage
 
 Include platform.js, polymer.html and iscroll.html :
@@ -37,7 +28,7 @@ Use it like a classic DOM:
 
 ```html
 <x-iscroll zoom scrollX scrollY freeScroll>
-    <img src="http://boncia.co/wp-content/uploads/2013/12/landscape-47.jpg">
+    <img src="picture.jpg">
 </x-iscroll> 
 ```
 
