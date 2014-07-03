@@ -7,6 +7,13 @@
 > [Check it live](http://yannickdot.github.io/labs/x-iscroll).
 
 
+## Install
+
+Install with [Bower](http://bower.io):
+
+```sh
+$ bower install --save x-iscroll
+```
 ## Usage
 
 Include platform.js, polymer.html and iscroll.html :
