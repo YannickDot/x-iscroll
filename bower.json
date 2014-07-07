@@ -1,0 +1,25 @@
+{
+    "name": "x-iscroll",
+    "version": "1.0.0",
+    "homepage": "https://github.com/YannickDot/x-iscroll",
+    "authors": [
+      "yannickdot"
+    ],
+    "description": "A web component built using Polymer.js which provides smooth scrolling utilities at 60fps using the iScrolljs library.",
+    "keywords": [
+      "iscroll",
+      "polymer",
+      "web-components"
+    ],
+    "license": "MIT",
+    "main": "dist/x-iscroll.html",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components"
+    ],
+    "dependencies": {
+        "polymer": "Polymer/polymer#~0.3.3",
+        "iscroll": "cubiq/iscroll"
+    }
+}
