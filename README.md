@@ -27,7 +27,6 @@ $ bower install --save x-iscroll
 
     ```html
     <link rel="import" href="bower_components/x-iscroll/dist/x-iscroll.html">
-    <link rel="import" href="bower_components/x-iscroll/dist/iscroll-import.html">
     ```
 
 3. Start using it!
@@ -35,15 +34,6 @@ $ bower install --save x-iscroll
     ```html
     <x-iscroll></x-iscroll>
     ```
-
-## Configuration options
-
-For the moment the only availible options are :
-
-- zoom (default : 'false')
-- scrollY (default : 'true')
-- scrollX (default : 'false')
-- freeScroll (default : 'false')
 
 ## Options
 
