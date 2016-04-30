@@ -2,6 +2,10 @@
 
 &lt;x-iscroll&gt; is a web component built using Polymer.js which provides smooth scrolling utilities at 60fps using the [iScrolljs](http://iscrolljs.com/) library.
 
+
+## DEPRECATED : Please use [&lt;rv-iscroll&gt;](https://github.com/itsravenous/rv-iscroll) by @itsravenous
+His version is supporting Polymer 1.0+ 😉
+
 ## Demo
 
 > [Check it live](http://yannickdot.github.io/labs/x-iscroll).
